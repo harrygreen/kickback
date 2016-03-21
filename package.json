@@ -1,0 +1,19 @@
+{
+  "name": "kickback",
+  "version": "1.0.0",
+  "description": "Get visual website feedback from your users. Send screenshots and browser info.",
+  "main": "kickback.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/harrygreen/kickback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrygreen/kickback/issues"
+  },
+  "homepage": "https://github.com/harrygreen/kickback#readme"
+}
